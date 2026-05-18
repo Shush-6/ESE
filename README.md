@@ -85,8 +85,7 @@ npm install
 npm run dev
 ```
 
-App runs at: http://localhost:5173  
-API runs at: http://localhost:5000
+
 
 ---
 
