@@ -1,0 +1,12 @@
+{
+  "name": "employee-analytics-mern",
+  "version": "1.0.0",
+  "description": "AI-Powered Employee Performance Analytics - MERN Stack",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start": "cd backend && npm start"
+  },
+  "keywords": ["mern", "ai", "employee", "analytics", "react", "nodejs", "mongodb"]
+}
